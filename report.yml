@@ -9,3 +9,5 @@ grade:
     grade: C
   - subject: Science
     grade: B+
+  - subject: History
+    grade: A  
