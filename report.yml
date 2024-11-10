@@ -3,7 +3,7 @@ age: 30
 city: New York
 is_student: true
 grade:
-  - subject: Math
+  - subject: Social Studies
     grade: B
   - subject: English
     grade: C
