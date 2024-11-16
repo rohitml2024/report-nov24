@@ -4,10 +4,10 @@ city: New York
 is_student: true
 grade:
   - subject: Social Studies
-    grade: D
+    grade: E
   - subject: English
-    grade: D
+    grade: E
   - subject: Science
-    grade: D+
+    grade: E+
   - subject: History
-    grade: D+  
+    grade: E+  
